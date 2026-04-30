@@ -1,23 +1,30 @@
-# Anil Kumar
+# 👋 Hi, I'm Anil Kumar
 
-**`Full Stack Developer`**
+🚀 Backend-Focused Full Stack Developer with 3+ years of experience building secure, scalable, and high-performance applications.
 
-A full Stack Web Developer based in New Delhi, India, passionate about creating interactive applications
-and experiences on the web.
+## 💻 Tech Stack
+- Backend: Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate
+- Frontend: React, Next.js, TypeScript, Thymeleaf
+- Database: PostgreSQL, MySQL, MongoDB, Redis
+- Tools: Docker, Git, Linux, Nginx, Tomcat
 
+## 🔐 What I Work On
+- Building secure authentication & authorization systems (RBAC, JWT)
+- Designing scalable microservices & REST APIs
+- Implementing real-time features using WebSockets
+- Optimizing performance and handling production issues
+- Working with stateful & stateless application architectures
 
-### 🧰 Languages and Tools
+## 🚀 Projects
+- CyberShakti → Cybersecurity platform with real-time session management & security features  
+- CyberGyan → Learning portal with VM-based cyber lab environments  
+- Hackathon Platform → Event & challenge management system  
+- LocalJobSeeker → MERN-based job marketplace  
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+## 🔒 Note
+Most of my professional work is in private repositories.  
+Code samples can be shared upon request.
 
-<br />
+## 📫 Connect with Me
+- 📧 Email: anilstmnet@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/anil-kumar-21b6a6209
